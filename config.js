@@ -1,0 +1,23 @@
+export const nameBand = ' FINAL FANTASY VII';
+export let nameSongs = [
+	"AERITH'S THEME ORCHESTRA", /*1*/
+	"ONE WINGED ANGEL", /*2*/
+	"ADVENT ONE-WINGED", /*3*/
+	"JENOVA", /*4*/
+	"MAIN THEME OF FINAL FANTASY VII", /*5*/
+	"FIGHTING", /*6*/
+	"THOSE WHO FIGHT (TOGETHER)", /*7*/
+	"BOMBING MISSION", /*8*/
+	"TIFA'S THEME", /*9*/
+	"CLOUD´S THEME", /*10*/
+	"COSMO CANYON", /*11*/
+	"CHAOS SHRINE", /*12*/
+	"OPERATIONAL CHOCOBO", /*13*/
+	"CINCO DE CHOCOBO", /*14*/
+	"FLASH OF STEEL", /*15*/
+	"SWORD SONG", /*16*/
+	"ANXIOUS HEART", /*17*/
+	"THE BIRTH OF A GOD", /*18*/
+	"LET THE BATTLES BEGIN!", /*19*/
+	"CAIT SITH'S THEME", /*20*/
+]
